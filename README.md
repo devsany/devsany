@@ -55,6 +55,7 @@ I am a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="Git" width="40" height="40"/>
 </div>
 <hr>
+
 ###
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/sanke.svg" alt="snake animation"/>
