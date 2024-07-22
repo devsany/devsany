@@ -58,4 +58,7 @@ I am a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsany&theme=prussian&hide_border=true&fire=EB5454&border=EB5454&stroke=EB5454)](https://git.io/streak-stats)
+  
+</div>
