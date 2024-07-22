@@ -71,4 +71,8 @@ I am a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsany&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
+<div align-"center>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100% height="100%"/>
+  
+</div>
+
