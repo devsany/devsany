@@ -56,9 +56,7 @@ I am a React JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 <hr>
 
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/sanke.svg" alt="snake animation"/>
+ 
 
 ### :fire: My Stats :
 
