@@ -4,7 +4,7 @@
  
 
 <div id="badges" id="header" align="center">
-  <a href="www.linkedin.com/in/sunny-raj-7b9bb2243">
+  <a href="https://www.linkedin.com/in/sunny-raj-7b9bb2243">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/sunny_sharma8540/">
